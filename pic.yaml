@@ -3,4 +3,27 @@
 ## comment: Commit a new version of pic.yaml to product abregistrar_3.14.128706-20150114123303_us0601-prod
 
 /local/links/abregistrar/WEB-INF/classes/local.properties:
-- 'set ''dddd'' '
+- set "testststetetwetwetwewwet" "us0202adbn172001000101.baddev.tango-dib.gbl:5447:ON"
+- set "test" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "test" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "blocklist.direct.cache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "blocklist.reverse.cache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "getContactsCache.memcache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "hiddenlist.cache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "configurator.remote.rest.host" "http://us0202adbn172001000101.baddev.tango-dib.gbl:8080"
+- set "configurator.rest.host" "http://us0202adbn172001000101.baddev.tango-dib.gbl:8080/"
+- set "facilitator.remote.rest.host" "http://us0202adbn172001000101.baddev.tango-dib.gbl:8080/"
+- set "reverseLookupCache.accountId.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "reverseLookupCache.numeric.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "reverseLookupCache.alphaNumeric.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "serverside.jms.connections" "us0202adbn172001000101.baddev.tango-dib.gbl:5446:ON"
+/local/links/abregistrar/WEB-INF/classes/memcached-chunkcache.properties:
+- set "addressbook.memcached.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+/local/links/abregistrar/WEB-INF/classes/memcached-ratelimit.properties:
+- set "ratelimit.memcached.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+/local/links/abregistrar/WEB-INF/classes/notification.properties:
+- set "notification.jms.connections" "us0202adbn172001000101.baddev.tango-dib.gbl:5445:ON"
+/local/links/abregistrar/WEB-INF/classes/rest.properties:
+- set "abusereport.remote.rest.host" "http://us0202adbn172001000132.baddev.tango-dib.gbl:8080/"
+- set "facilitator.rest.host" "http://us0202adbn172001000101.baddev.tango-dib.gbl:8080/"
+- set "push.delivery.rest.host" "http://us0202adbn172001000101.baddev.tango-dib.gbl:8080/"
