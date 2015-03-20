@@ -1,0 +1,7 @@
+## generated
+## branch: adinfo_3.14.128706-20150114123303
+## comment: Added a template to product-line adinfo_3.14.128706-20150114123303
+
+/local/links/adinfo/WEB-INF/classes/local.properties:
+- set "memcache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "ad.proxy.mopub.host.dev" "http://ads.mopub.com/"
