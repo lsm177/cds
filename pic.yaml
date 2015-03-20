@@ -3,9 +3,9 @@
 ## comment: Commit a new version of pic.yaml to product abregistrar_3.14.128706-20150114123303_us0601-prod
 
 /local/links/abregistrar/WEB-INF/classes/local.properties:
-- set "test post test post" "us0202adbn172001000101.baddev.tango-dib.gbl:5447:ON"
-- set "shasha" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
-- set "shshshsshs" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "testststetetwetwetwewwet" "us0202adbn172001000101.baddev.tango-dib.gbl:5447:ON"
+- set "test" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
+- set "test" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
 - set "blocklist.direct.cache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
 - set "blocklist.reverse.cache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
 - set "getContactsCache.memcache.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
