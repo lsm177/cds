@@ -1,0 +1,9 @@
+## generated
+## branch: abTest_3.14.128706-20150114123303
+## comment: Added a template to product-line abTest_3.14.128706-20150114123303
+
+/local/links/abTest/WEB-INF/classes/local.properties:
+- set "messagebroker.connections" "us0202adbn172001000101.baddev.tango-dib.gbl:5446:ON"
+/local/links/abTest/WEB-INF/database.properties:
+- set jdbc.abtesting.url.readOnly  "jdbc:mysql://us0202adbd172001000100.baddev.tango-dib.gbl/abtest?zeroDateTimeBehavior=round&useUnicode=true&characterEncoding=UTF-8&useDynamicCharsetInfo=false"
+- set jdbc.abtesting.url.readWrite "jdbc:mysql://us0202adbd172001000100.baddev.tango-dib.gbl/abtest?zeroDateTimeBehavior=round&useUnicode=true&characterEncoding=UTF-8&useDynamicCharsetInfo=false"
