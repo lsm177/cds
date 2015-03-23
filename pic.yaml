@@ -1,0 +1,6 @@
+## generated
+## branch: abregistrar_3.14.128706-20150114123303_us06-prod
+## comment: Commit a new version of pic.yaml to product abregistrar_3.14.128706-20150114123303_us06-prod
+
+/local/links/abregistrar/WEB-INF/classes/local.properties:
+- create from template testing testing
