@@ -1,6 +1,6 @@
 ## generated
 ## branch: abregistrar_3.14.128706-20150114123303_us0601-prod
-## comment: Commit a new version of pic.yaml to product abregistrar_3.14.128706-20150114123303_us0601-prod
+## comment: None
 
 /local/links/abregistrar/WEB-INF/classes/local.properties:
 - set "shasha" "us0202adbn172001000101.baddev.tango-dib.gbl:5447:ON"
@@ -18,5 +18,5 @@
 - set "reverseLookupCache.alphaNumeric.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
 - set "serverside.jms.connections" "us0202adbn172001000101.baddev.tango-dib.gbl:5446:ON"
 unittest:
-  dts: '2015-05-22 18:21:25Z'
+  dts: '2015-05-27 00:29:59Z'
   username: remotetester
