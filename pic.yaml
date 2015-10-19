@@ -1,6 +1,6 @@
 ## generated
 ## branch: abregistrar_3.14.128706-20150114123303_us0601-prod
-## comment: None
+## comment: 
 
 /local/links/abregistrar/WEB-INF/classes/local.properties:
 - set "shasha" "us0202adbn172001000101.baddev.tango-dib.gbl:5447:ON"
@@ -18,5 +18,5 @@
 - set "reverseLookupCache.alphaNumeric.servers" "us0202adbm172001000140.baddev.tango-dib.gbl:11211"
 - set "serverside.jms.connections" "us0202adbn172001000101.baddev.tango-dib.gbl:5446:ON"
 unittest:
-  dts: '2015-10-16 18:21:31'
+  dts: '2015-10-19 22:16:24Z'
   username: remotetester
